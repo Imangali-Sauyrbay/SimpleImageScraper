@@ -24,8 +24,4 @@ Hey there! This project is designed to understand how to use Selenium in Python 
 
 - Feel free to enhance the script to add additional features, such as automatically resizing images or saving in different formats.
 
----
-
-Feel free to make any changes to this README.md to suit your project. Good luck with your coding adventures! 😄🚀
-
 
